@@ -1,0 +1,789 @@
+state_name,district_name,micro,small,medium,total,competition
+Andhra Pradesh,Alluri Sitharama Raju,7073,6,0,7079,Low
+Andhra Pradesh,Konaseema,37288,112,5,37405,Medium
+Andhra Pradesh,West Godavari,82973,1203,73,84249,High
+Arunachal Pradesh,Dibang Valley,149,3,0,152,Low
+Arunachal Pradesh,Lower Subansiri,1053,8,1,1062,Low
+Assam,Biswanath,13897,57,2,13956,Medium
+Assam,Charaideo,8871,26,2,8899,Low
+Assam,Hojai,19202,84,1,19287,Medium
+Assam,Marigaon,19470,61,3,19534,Medium
+Assam,Sonitpur,28158,148,11,28317,Medium
+Assam,Tinsukia,32620,242,9,32871,Medium
+Assam,Udalguri,13179,41,0,13220,Medium
+Bihar,Banka,24336,78,1,24415,Medium
+Bihar,Madhepura,27728,185,7,27920,Medium
+Bihar,Muzaffarpur,90277,664,23,90964,High
+Bihar,Nalanda,38718,201,3,38922,Medium
+Bihar,Saran,43376,239,10,43625,Medium
+Bihar,Sheikhpura,8461,34,0,8495,Low
+Bihar,Vaishali,56785,258,7,57050,High
+Chhattisgarh,Balrampur,8012,32,0,8044,Low
+Chhattisgarh,Dhamtari,16862,104,1,16967,Medium
+Chhattisgarh,Gariaband,11344,28,0,11372,Medium
+Goa,North Goa,44403,464,29,44896,Medium
+Gujarat,Anand,56628,336,14,56978,High
+Gujarat,Dohad,23944,162,5,24111,Medium
+Gujarat,Jamnagar,51332,733,33,52098,High
+Gujarat,Mahesana,51296,963,60,52319,High
+Gujarat,Mahisagar,10249,34,0,10283,Medium
+Gujarat,Narmada,6995,43,0,7038,Low
+Gujarat,Rajkot,161677,1966,183,163826,High
+Gujarat,Sabar Kantha,31990,260,12,32262,Medium
+Gujarat,Tapi,10657,88,4,10749,Medium
+Gujarat,Valsad,69221,720,31,69972,High
+Haryana,Jind,42175,387,12,42574,Medium
+Haryana,Rewari,29675,458,26,30159,Medium
+Haryana,Sonipat,51419,571,23,52013,High
+Himachal Pradesh,Bilaspur,11544,65,2,11611,Medium
+Himachal Pradesh,Lahul And Spiti,1031,2,0,1033,Low
+Himachal Pradesh,Solan,35295,347,16,35658,Medium
+Jharkhand,Dhanbad,66784,489,23,67296,High
+Jharkhand,Jamtara,8764,25,1,8790,Low
+Jharkhand,Khunti,6258,23,0,6281,Low
+Jharkhand,Lohardaga,8828,40,1,8869,Low
+Jharkhand,Ranchi,105965,1071,64,107100,High
+Karnataka,Bengaluru (Rural),88752,785,48,89585,High
+Karnataka,Bengaluru (Urban),504290,9235,800,514325,High
+Karnataka,Bidar,40909,221,9,41139,Medium
+Karnataka,Dharwad,72837,643,35,73515,High
+Karnataka,Kolar,42905,290,13,43208,Medium
+Karnataka,Koppal,29647,330,2,29979,Medium
+Karnataka,Udupi,45600,355,14,45969,Medium
+Karnataka,Yadgir,23432,171,4,23607,Medium
+Kerala,Ernakulam,109574,2095,160,111829,High
+Kerala,Kannur,62543,547,25,63115,High
+Madhya Pradesh,East Nimar,28680,174,2,28856,Medium
+Madhya Pradesh,Harda,14605,112,0,14717,Medium
+Madhya Pradesh,Hoshangabad,30426,201,10,30637,Medium
+Madhya Pradesh,Khargone,42991,231,4,43226,Medium
+Madhya Pradesh,Maihar,2750,10,1,2761,Low
+Madhya Pradesh,Mandla,16877,71,0,16948,Medium
+Madhya Pradesh,Mauganj,2397,2,0,2399,Low
+Madhya Pradesh,Panna,13578,39,0,13617,Medium
+Madhya Pradesh,Raisen,29816,197,2,30015,Medium
+Madhya Pradesh,Rajgarh,52472,287,12,52771,High
+Madhya Pradesh,Sidhi,15607,74,1,15682,Medium
+Madhya Pradesh,Tikamgarh,14927,90,4,15021,Medium
+Madhya Pradesh,Vidisha,38627,203,6,38836,Medium
+Maharashtra,Amravati,95909,565,14,96488,High
+Maharashtra,Buldhana,85008,408,16,85432,High
+Maharashtra,Chandrapur,62659,401,12,63072,High
+Maharashtra,Dhule,56552,353,12,56917,High
+Maharashtra,Gondia,39767,275,7,40049,Medium
+Maharashtra,Kolhapur,182444,1108,73,183625,High
+Maharashtra,Nan Ded,98582,570,20,99172,High
+Maharashtra,Nandurbar,29695,214,5,29914,Medium
+Maharashtra,Thane,582934,5046,346,588326,High
+Manipur,Churachandpur,3553,14,0,3567,Low
+Manipur,Imphal East,14146,66,1,14213,Medium
+Manipur,Kakching,3104,11,0,3115,Low
+Manipur,Tamenglong,930,4,1,935,Low
+Meghalaya,South West  Garo Hills,1699,6,0,1705,Low
+Meghalaya,West Khasi Hills,1770,5,0,1775,Low
+Mizoram,Hnahthial,348,0,0,348,Low
+Nagaland,Chumoukedima,2325,1,0,2326,Low
+Odisha,Malkangiri,12269,52,0,12321,Medium
+Odisha,Nayagarh,25943,97,3,26043,Medium
+Punjab,Fatehgarh Sahib,25158,1013,76,26247,Medium
+Punjab,Jalandhar,117830,874,49,118753,High
+Punjab,Mansa,22542,137,4,22683,Medium
+Punjab,Moga,42241,200,7,42448,Medium
+Punjab,Shahid Bhagat Singh Nagar,24822,91,1,24914,Medium
+Rajasthan,Baran,25153,238,17,25408,Medium
+Rajasthan,Bhilwara,93674,604,23,94301,High
+Rajasthan,Dudu,915,3,0,918,Low
+Rajasthan,Jodhpur Gramin,4161,11,1,4173,Low
+Rajasthan,Nagaur,74680,428,13,75121,High
+Rajasthan,Pratapgarh,18517,89,1,18607,Medium
+Rajasthan,Rajsamand,38261,156,0,38417,Medium
+Rajasthan,Sirohi,27753,130,6,27889,Medium
+Sikkim,Gangtok,7698,90,9,7797,Low
+Tamil Nadu,Ariyalur,25037,110,5,25152,Medium
+Tamil Nadu,Chengalpattu,88645,315,6,88966,High
+Tamil Nadu,Chennai,362363,6405,521,369289,High
+Tamil Nadu,Coimbatore,210002,2076,144,212222,High
+Tamil Nadu,Kanniyakumari,74387,432,12,74831,High
+Tamil Nadu,Krishnagiri,82506,525,15,83046,High
+Tamil Nadu,Mayiladuthurai,28360,70,1,28431,Medium
+Tamil Nadu,The Nilgirish,26739,91,6,26836,Medium
+Tamil Nadu,Tuticorin,67770,441,20,68231,High
+Telangana,Karimnagar,55677,298,4,55979,High
+Telangana,Mahabubnagar,41108,197,8,41313,Medium
+Telangana,Nagarkurnool,23010,75,0,23085,Medium
+Telangana,Wanaparthy,17488,58,0,17546,Medium
+Uttar Pradesh,Ambedakar Nagar,30844,149,3,30996,Medium
+Uttar Pradesh,Amethi,26297,126,4,26427,Medium
+Uttar Pradesh,Bahraich,36788,250,6,37044,Medium
+Uttar Pradesh,Bulandshahar,60021,463,16,60500,High
+Uttar Pradesh,Chandauli,29075,183,17,29275,Medium
+Uttar Pradesh,Deoria,45891,209,6,46106,Medium
+Uttar Pradesh,Gautam Buddha Nagar,161601,1987,178,163766,High
+Uttar Pradesh,Ghaziabad,164533,1842,130,166505,High
+Uttar Pradesh,Ghazipur,56063,227,5,56295,High
+Uttar Pradesh,Jalaun,20733,154,2,20889,Medium
+Uttar Pradesh,Kaushambi,17639,79,1,17719,Medium
+Uttar Pradesh,Mau,32763,133,4,32900,Medium
+Uttar Pradesh,Moradabad,59945,424,20,60389,High
+Uttar Pradesh,Pilibhit,31133,127,1,31261,Medium
+Uttar Pradesh,Rae Bareli,45941,218,6,46165,Medium
+Uttar Pradesh,Rampur,40176,232,18,40426,Medium
+Uttar Pradesh,Sultanpur,32903,168,2,33073,Medium
+Uttar Pradesh,Unnao,35810,172,5,35987,Medium
+Uttar Pradesh,Varanasi,105401,1101,59,106561,High
+Uttarakhand,Champawat,6384,23,1,6408,Low
+Uttarakhand,Dehradun,105328,799,42,106169,High
+Uttarakhand,Haridwar,68476,452,20,68948,High
+Uttarakhand,Pauri Garhwal,13273,45,2,13320,Medium
+Uttarakhand,Tehri Garhwal,11803,52,3,11858,Medium
+Uttarakhand,Udham Singh Nagar,69519,498,16,70033,High
+West Bengal,Darjeeling,52588,756,33,53377,High
+West Bengal,Purba Bardhaman,78382,614,12,79008,High
+West Bengal,Purulia,28961,164,2,29127,Medium
+Andaman And Nicobar Islands,Nikobars,496,0,0,496,Low
+Delhi,East,80925,1724,122,82771,High
+Jammu And Kashmir,Baramulla,35753,131,3,35887,Medium
+Jammu And Kashmir,Budgam,27130,74,2,27206,Medium
+Jammu And Kashmir,Kathua,21907,100,5,22012,Medium
+Jammu And Kashmir,Reasi,9509,40,1,9550,Low
+Lakshadweep,Lakshadweep District,1336,0,0,1336,Low
+Puducherry,Mahe,562,22,2,586,Low
+Andhra Pradesh,Anakapalli,30861,80,3,30944,Medium
+Andhra Pradesh,Chitoor,74402,514,24,74940,High
+Andhra Pradesh,East Godavari,83519,918,33,84470,High
+Andhra Pradesh,Spsr Nellore,87400,697,29,88126,High
+Andhra Pradesh,Srikakulam,47467,292,9,47768,Medium
+Andhra Pradesh,Vizianagaram,45169,246,6,45421,Medium
+Andhra Pradesh,Y.S.R,79510,515,16,80041,High
+Arunachal Pradesh,East Siang,1383,20,0,1403,Low
+Arunachal Pradesh,Leparada,313,3,0,316,Low
+Arunachal Pradesh,Lower Dibang Valley,1033,7,0,1040,Low
+Arunachal Pradesh,Lower Siang,260,5,0,265,Low
+Arunachal Pradesh,Shi Yomi,123,0,0,123,Low
+Arunachal Pradesh,Siang,188,1,0,189,Low
+Arunachal Pradesh,West Kameng,1757,10,0,1767,Low
+Assam,Chirang,9083,37,4,9124,Low
+Assam,Dima Hasao,3431,19,0,3450,Low
+Assam,Kamrup,40940,251,16,41207,Medium
+Assam,Karimganj,23354,117,1,23472,Medium
+Assam,Lakhimpur,28925,124,6,29055,Medium
+Assam,Majuli,3607,5,0,3612,Low
+Bihar,Aurangabad,31902,209,5,32116,Medium
+Bihar,Begusarai,45185,284,10,45479,Medium
+Bihar,Buxar,19706,151,4,19861,Medium
+Bihar,Jamui,21152,91,2,21245,Medium
+Bihar,Kaimur (Bhabua),15688,163,2,15853,Medium
+Bihar,Katihar,47194,289,8,47491,Medium
+Bihar,Khagaria,21043,140,3,21186,Medium
+Chhattisgarh,Bastar,16191,122,2,16315,Medium
+Chhattisgarh,Dantewada,4212,28,0,4240,Low
+Chhattisgarh,Kondagaon,9163,60,2,9225,Low
+Chhattisgarh,Mahasamund,20617,112,1,20730,Medium
+Chhattisgarh,Raipur,108686,2119,208,111013,High
+Chhattisgarh,Sarangarh Bilaigarh,5064,7,0,5071,Low
+Chhattisgarh,Surguja,19096,183,6,19285,Medium
+Goa,South Goa,29670,309,7,29986,Medium
+Gujarat,Bhavnagar,61899,653,24,62576,High
+Gujarat,Junagadh,42785,360,9,43154,Medium
+Gujarat,Vadodara,173252,1655,98,175005,High
+Haryana,Charki Dadri,8656,80,2,8738,Low
+Haryana,Jhajjar,27995,348,8,28351,Medium
+Haryana,Panchkula,28964,400,31,29395,Medium
+Haryana,Panipat,60041,900,39,60980,High
+Haryana,Rohtak,36394,469,25,36888,Medium
+Himachal Pradesh,Chamba,10552,35,2,10589,Medium
+Himachal Pradesh,Una,15886,102,3,15991,Medium
+Jharkhand,Giridih,42732,179,6,42917,Medium
+Jharkhand,Godda,15108,63,2,15173,Medium
+Jharkhand,Palamu,24680,146,3,24829,Medium
+Jharkhand,Sahebganj,12990,67,1,13058,Medium
+Karnataka,Bagalkot,39602,265,6,39873,Medium
+Karnataka,Chamarajnagar,22767,126,2,22895,Medium
+Karnataka,Chikballapur,34259,234,7,34500,Medium
+Karnataka,Kodagu,17518,187,10,17715,Medium
+Karnataka,Mysuru,106841,949,27,107817,High
+Karnataka,Raichur,40806,457,13,41276,Medium
+Karnataka,Shivamogga,54753,491,15,55259,High
+Karnataka,Vijayanagar,21738,114,1,21853,Medium
+Karnataka,Vijayapura,53985,464,26,54475,High
+Kerala,Kollam,54005,622,14,54641,High
+Madhya Pradesh,Anuppur,12071,48,2,12121,Medium
+Madhya Pradesh,Bhopal,125410,1094,81,126585,High
+Madhya Pradesh,Datia,14758,78,1,14837,Medium
+Madhya Pradesh,Dewas,52699,197,9,52905,High
+Madhya Pradesh,Gwalior,80693,699,34,81426,High
+Madhya Pradesh,Indore,202980,2262,151,205393,High
+Madhya Pradesh,Jhabua,19097,77,1,19175,Medium
+Madhya Pradesh,Morena,33116,178,3,33297,Medium
+Madhya Pradesh,Shivpuri,27294,174,0,27468,Medium
+Madhya Pradesh,Singrauli,21210,150,3,21363,Medium
+Madhya Pradesh,Ujjain,80514,439,16,80969,High
+Maharashtra,Beed,90658,395,16,91069,High
+Maharashtra,Hingoli,33021,188,4,33213,Medium
+Maharashtra,Jalna,80619,401,23,81043,High
+Maharashtra,Nashik,287453,2199,88,289740,High
+Maharashtra,Osmanabad,67435,217,4,67656,High
+Maharashtra,Raigad,200346,1198,70,201614,High
+Maharashtra,Ratnagiri,62789,227,4,63020,High
+Maharashtra,Satara,141981,634,30,142645,High
+Maharashtra,Sindhudurg,36879,79,1,36959,Medium
+Maharashtra,Solapur,208914,1139,33,210086,High
+Manipur,Senapati,3474,7,1,3482,Low
+Manipur,Tengnoupal,659,0,1,660,Low
+Meghalaya,Eastern West Khasi Hills,777,1,0,778,Low
+Meghalaya,North Garo Hills,1654,6,1,1661,Low
+Meghalaya,South West Khasi Hills,1089,2,0,1091,Low
+Meghalaya,West Jaintia Hills,4095,12,0,4107,Low
+Mizoram,Champhai,2136,9,0,2145,Low
+Mizoram,Lawngtlai,1085,4,0,1089,Low
+Nagaland,Peren,1285,0,0,1285,Low
+Odisha,Angul,35726,353,22,36101,Medium
+Odisha,Balangir,32401,181,6,32588,Medium
+Odisha,Baleshwar,65359,371,7,65737,High
+Odisha,Kendujhar,41931,400,39,42370,Medium
+Odisha,Koraput,27154,162,3,27319,Medium
+Odisha,Rayagada,15605,98,1,15704,Medium
+Odisha,Sonepur,13076,56,1,13133,Medium
+Punjab,Amritsar,102036,797,34,102867,High
+Punjab,Barnala,23923,142,5,24070,Medium
+Punjab,Faridkot,24856,124,2,24982,Medium
+Punjab,Sangrur,48698,364,9,49071,Medium
+Punjab,Sas Nagar,101103,768,66,101937,High
+Punjab,Sri Muktsar Sahib,30167,195,5,30367,Medium
+Rajasthan,Ajmer,109100,732,35,109867,High
+Rajasthan,Beawar,9656,31,3,9690,Low
+Rajasthan,Bikaner,88594,806,32,89432,High
+Rajasthan,Churu,55396,207,6,55609,High
+Rajasthan,Didwana Kuchaman,12417,15,1,12433,Medium
+Rajasthan,Jodhpur,126234,1226,55,127515,High
+Rajasthan,Phalodi,5646,17,1,5664,Low
+Rajasthan,Salumbar,2303,2,0,2305,Low
+Rajasthan,Shahpura,1047,2,0,1049,Low
+Sikkim,Pakyong,1805,4,0,1809,Low
+Tamil Nadu,Kallakurichi,30238,98,2,30338,Medium
+Tamil Nadu,Pudukkottai,56048,222,5,56275,High
+Tamil Nadu,Ranipet,33821,110,4,33935,Medium
+Telangana,Adilabad,24640,113,2,24755,Medium
+Telangana,Hanumakonda,39532,348,17,39897,Medium
+Telangana,Kamareddy,27602,97,2,27701,Medium
+Telangana,Khammam,54619,340,7,54966,High
+Telangana,Komaram Bheem Asifabad,12047,29,0,12076,Medium
+Telangana,Mancherial,31619,113,2,31734,Medium
+Telangana,Nalgonda,70369,292,12,70673,High
+Telangana,Nirmal,22058,89,2,22149,Medium
+Telangana,Vikarabad,26139,88,0,26227,Medium
+Tripura,Khowai,5858,17,0,5875,Low
+Tripura,Unakoti,7602,25,0,7627,Low
+Uttar Pradesh,Auraiya,18516,111,2,18629,Medium
+Uttar Pradesh,Ayodhya,44073,279,6,44358,Medium
+Uttar Pradesh,Azamgarh,77188,300,7,77495,High
+Uttar Pradesh,Banda,17819,123,2,17944,Medium
+Uttar Pradesh,Bhadohi,24173,94,2,24269,Medium
+Uttar Pradesh,Budaun,34200,250,5,34455,Medium
+Uttar Pradesh,Etawah,25554,178,6,25738,Medium
+Uttar Pradesh,Gonda,44091,233,14,44338,Medium
+Uttar Pradesh,Hapur,32962,248,10,33220,Medium
+Uttar Pradesh,Lucknow,212108,2399,153,214660,High
+Uttar Pradesh,Mahoba,12979,96,5,13080,Medium
+Uttar Pradesh,Siddharthnagar,28080,156,3,28239,Medium
+Uttarakhand,Almora,12658,28,0,12686,Medium
+Uttarakhand,Bageshwar,4934,7,1,4942,Low
+West Bengal,Birbhum,53019,353,7,53379,High
+West Bengal,Coochbehar,46297,240,3,46540,Medium
+West Bengal,Dakshin Dinajpur,23609,121,3,23733,Medium
+West Bengal,Malda,66700,391,10,67101,High
+West Bengal,Uttar Dinajpur,51175,415,7,51597,High
+Delhi,Central,49855,2526,213,52594,High
+Delhi,New Delhi,55859,1566,172,57597,High
+Delhi,Shahdara,14849,193,16,15058,Medium
+Delhi,South West,89467,1692,164,91323,High
+Jammu And Kashmir,Doda,13195,20,1,13216,Medium
+Jammu And Kashmir,Samba,13117,76,6,13199,Medium
+Jammu And Kashmir,Srinagar,60609,454,24,61087,High
+Ladakh,Kargil,3952,14,0,3966,Low
+Puducherry,Karaikal,8223,70,3,8296,Low
+Andhra Pradesh,Ananthapur,96237,525,10,96772,High
+Andhra Pradesh,Bapatla,33252,109,4,33365,Medium
+Andhra Pradesh,Krishna,87118,1364,68,88550,High
+Andhra Pradesh,Ntr,73050,313,15,73378,High
+Andhra Pradesh,Tirupati,60074,191,10,60275,High
+Arunachal Pradesh,Pakke Kessang,99,0,0,99,Low
+Arunachal Pradesh,Papum Pare,7263,141,9,7413,Low
+Arunachal Pradesh,Tirap,337,5,0,342,Low
+Arunachal Pradesh,Upper Siang,265,3,0,268,Low
+Assam,Cachar,51916,245,13,52174,High
+Assam,Kamrup Metro,68545,1639,126,70310,High
+Assam,Nalbari,22423,73,2,22498,Medium
+Assam,Sivasagar,21344,124,6,21474,Medium
+Assam,South Salmara Mancachar,7268,21,1,7290,Low
+Assam,West Karbi Anglong,3586,16,102,3704,Low
+Bihar,Araria,40176,314,10,40500,Medium
+Bihar,Arwal,7599,29,0,7628,Low
+Bihar,Gopalganj,29192,155,7,29354,Medium
+Bihar,Purnia,62898,593,42,63533,High
+Bihar,Rohtas,37842,310,6,38158,Medium
+Bihar,Saharsa,26682,146,7,26835,Medium
+Bihar,Siwan,36063,197,1,36261,Medium
+Chhattisgarh,Bijapur,2452,5,1,2458,Low
+Chhattisgarh,Durg,57911,549,38,58498,High
+Chhattisgarh,Janjgir-Champa,25523,150,3,25676,Medium
+Chhattisgarh,Kanker,13957,70,0,14027,Medium
+Chhattisgarh,Manendragarh Chirimiri Bharatpur,4310,11,0,4321,Low
+Chhattisgarh,Mohla Manpur Ambagarh Chouki,2210,0,0,2210,Low
+Chhattisgarh,Raigarh,30111,384,23,30518,Medium
+Chhattisgarh,Rajnandagaon,28051,191,3,28245,Medium
+Chhattisgarh,Sukma,2093,12,0,2105,Low
+Gujarat,Amreli,25724,245,5,25974,Medium
+Gujarat,Arvalli,16418,132,0,16550,Medium
+Gujarat,Botad,11034,130,2,11166,Medium
+Gujarat,Chhotaudepur,9870,56,0,9926,Low
+Gujarat,Dang,1824,12,0,1836,Low
+Gujarat,Gir Somnath,24644,217,4,24865,Medium
+Gujarat,Panch Mahals,28033,171,6,28210,Medium
+Gujarat,Patan,24021,241,8,24270,Medium
+Gujarat,Porbandar,16296,155,4,16455,Medium
+Gujarat,Surat,310019,4458,273,314750,High
+Gujarat,Surendranagar,33098,295,3,33396,Medium
+Haryana,Mahendragarh,25134,229,8,25371,Medium
+Haryana,Palwal,30418,266,5,30689,Medium
+Himachal Pradesh,Kangra,37236,271,7,37514,Medium
+Himachal Pradesh,Kinnaur,2976,9,0,2985,Low
+Himachal Pradesh,Shimla,31344,222,6,31572,Medium
+Himachal Pradesh,Sirmaur,16265,84,0,16349,Medium
+Jharkhand,Bokaro,48925,307,13,49245,Medium
+Jharkhand,East Singhbhum,65113,746,36,65895,High
+Jharkhand,Gumla,10067,51,1,10119,Medium
+Jharkhand,Ramgarh,25525,162,5,25692,Medium
+Jharkhand,Simdega,6315,27,0,6342,Low
+Karnataka,Chikkamagaluru,32475,295,8,32778,Medium
+Karnataka,Dakshin Kannad,76987,842,43,77872,High
+Kerala,Alappuzha,46401,412,9,46822,Medium
+Kerala,Idukki,28482,314,13,28809,Medium
+Kerala,Palakkad,66752,580,20,67352,High
+Kerala,Thrissur,74942,844,47,75833,High
+Kerala,Wayanad,22043,206,5,22254,Medium
+Madhya Pradesh,Alirajpur,8466,32,0,8498,Low
+Madhya Pradesh,Barwani,25941,121,4,26066,Medium
+Madhya Pradesh,Bhind,21356,87,3,21446,Medium
+Madhya Pradesh,Burhanpur,17511,88,2,17601,Medium
+Madhya Pradesh,Damoh,19783,115,5,19903,Medium
+Madhya Pradesh,Jabalpur,74102,611,34,74747,High
+Madhya Pradesh,Niwari,4222,21,0,4243,Low
+Madhya Pradesh,Ratlam,51771,303,5,52079,High
+Madhya Pradesh,Rewa,42530,229,4,42763,Medium
+Madhya Pradesh,Shahdol,18904,106,0,19010,Medium
+Madhya Pradesh,Shajapur,34376,163,17,34556,Medium
+Maharashtra,Bhandara,40301,123,6,40430,Medium
+Maharashtra,Latur,93369,553,29,93951,High
+Maharashtra,Palghar,171185,655,32,171872,High
+Maharashtra,Sangli,132788,826,21,133635,High
+Manipur,Bishnupur,6794,21,0,6815,Low
+Manipur,Chandel,1187,10,1,1198,Low
+Manipur,Noney,553,1,0,554,Low
+Manipur,Pherzawl,54,0,0,54,Low
+Meghalaya,Ri Bhoi,3497,24,4,3525,Low
+Mizoram,Khawzawl,436,1,0,437,Low
+Mizoram,Kolasib,2393,8,0,2401,Low
+Mizoram,Mamit,1067,3,0,1070,Low
+Mizoram,Saiha,496,3,0,499,Low
+Mizoram,Saitual,662,0,0,662,Low
+Nagaland,Longleng,711,0,0,711,Low
+Nagaland,Mon,2418,3,0,2421,Low
+Nagaland,Niuland,406,1,0,407,Low
+Nagaland,Tuensang,1424,0,0,1424,Low
+Odisha,Bhadrak,43025,175,5,43205,Medium
+Odisha,Gajapati,9578,32,2,9612,Low
+Odisha,Jagatsinghpur,32541,164,4,32709,Medium
+Odisha,Jharsuguda,18601,262,11,18874,Medium
+Odisha,Mayurbhanj,43040,215,3,43258,Medium
+Odisha,Nabarangpur,15721,122,5,15848,Medium
+Odisha,Nuapada,12752,52,0,12804,Medium
+Odisha,Puri,56596,198,4,56798,High
+Punjab,Fazilka,34439,209,8,34656,Medium
+Punjab,Gurdaspur,47385,214,11,47610,Medium
+Punjab,Kapurthala,38168,183,3,38354,Medium
+Punjab,Malerkotla,11123,33,1,11157,Medium
+Punjab,Patiala,92646,552,26,93224,High
+Punjab,Rupnagar,25169,147,6,25322,Medium
+Punjab,Tarn Taran,27865,91,1,27957,Medium
+Rajasthan,Balotra,6689,32,3,6724,Low
+Rajasthan,Deeg,5809,8,0,5817,Low
+Rajasthan,Jaisalmer,18352,106,5,18463,Medium
+Rajasthan,Jalore,31838,157,3,31998,Medium
+Rajasthan,Jhalawar,36093,244,5,36342,Medium
+Rajasthan,Kota,76896,886,44,77826,High
+Rajasthan,Pali,57712,356,11,58079,High
+Tamil Nadu,Ramanathapuram,41414,163,5,41582,Medium
+Tamil Nadu,Tenkasi,38291,131,1,38423,Medium
+Telangana,Hyderabad,252758,5471,589,258818,High
+Telangana,Jagitial,29567,98,2,29667,Medium
+Telangana,Jayashankar Bhupalapally,10295,37,0,10332,Medium
+Telangana,Mahabubabad,22175,75,1,22251,Medium
+Telangana,Mulugu,6095,25,1,6121,Low
+Telangana,Peddapalli,25146,121,2,25269,Medium
+Telangana,Ranga Reddi,176367,1994,144,178505,High
+Telangana,Siddipet,41849,140,4,41993,Medium
+Telangana,Yadadri Bhuvanagiri,27619,75,1,27695,Medium
+Tripura,Gomati,9222,33,1,9256,Low
+Tripura,North Tripura,11704,45,0,11749,Medium
+Uttar Pradesh,Balrampur,18749,95,1,18845,Medium
+Uttar Pradesh,Bareilly,89401,597,42,90040,High
+Uttar Pradesh,Basti,35549,216,11,35776,Medium
+Uttar Pradesh,Bijnor,46552,289,8,46849,Medium
+Uttar Pradesh,Farrukhabad,23079,139,1,23219,Medium
+Uttar Pradesh,Fatehpur,28419,177,3,28599,Medium
+Uttar Pradesh,Firozabad,40740,189,8,40937,Medium
+Uttar Pradesh,Hathras,24238,189,6,24433,Medium
+Uttar Pradesh,Mainpuri,28437,185,2,28624,Medium
+Uttar Pradesh,Meerut,100720,754,32,101506,High
+Uttar Pradesh,Saharanpur,85543,464,10,86017,High
+Uttar Pradesh,Sambhal,27554,333,66,27953,Medium
+Uttar Pradesh,Shravasti,10488,35,0,10523,Medium
+Uttar Pradesh,Sitapur,41703,255,0,41958,Medium
+Uttarakhand,Chamoli,9808,18,0,9826,Low
+Uttarakhand,Nainital,37124,330,13,37467,Medium
+Uttarakhand,Pithoragarh,9842,33,1,9876,Low
+Uttarakhand,Rudra Prayag,6083,14,0,6097,Low
+Uttarakhand,Uttarkashi,7960,17,1,7978,Low
+West Bengal,Jhargram,13159,51,1,13211,Medium
+West Bengal,Murshidabad,106244,678,17,106939,High
+West Bengal,Nadia,81449,491,12,81952,High
+West Bengal,North 24 Praganas,190084,1505,81,191670,High
+West Bengal,South 24 Praganas,128146,693,72,128911,High
+Chandigarh,Chandigarh,52461,941,86,53488,High
+Delhi,North,47012,1625,125,48762,Medium
+Delhi,North East,52869,587,41,53497,High
+Delhi,South,94380,2494,270,97144,High
+Jammu And Kashmir,Kulgam,16329,44,2,16375,Medium
+Jammu And Kashmir,Kupwara,22904,46,2,22952,Medium
+Jammu And Kashmir,Pulwama,25062,152,15,25229,Medium
+Jammu And Kashmir,Udhampur,14949,63,3,15015,Medium
+Ladakh,Leh Ladakh,7110,68,3,7181,Low
+Andhra Pradesh,Annamayya,45998,103,3,46104,Medium
+Andhra Pradesh,Guntur,96827,1166,65,98058,High
+Andhra Pradesh,Kurnool,91512,576,22,92110,High
+Andhra Pradesh,Sri Sathya Sai,35259,75,4,35338,Medium
+Arunachal Pradesh,Changlang,995,5,0,1000,Low
+Arunachal Pradesh,Kamle,185,2,0,187,Low
+Arunachal Pradesh,Keyi Panyor,130,3,0,133,Low
+Arunachal Pradesh,Kra Daadi,244,1,0,245,Low
+Arunachal Pradesh,Kurung Kumey,240,3,0,243,Low
+Arunachal Pradesh,Lohit,865,3,0,868,Low
+Arunachal Pradesh,Longding,302,3,0,305,Low
+Arunachal Pradesh,Namsai,1681,7,0,1688,Low
+Arunachal Pradesh,West Siang,861,12,0,873,Low
+Assam,Baksa,12186,24,3,12213,Medium
+Assam,Barpeta,34141,162,17,34320,Medium
+Assam,Bongaigaon,17410,118,6,17534,Medium
+Assam,Dhemaji,14392,56,1,14449,Medium
+Assam,Dhubri,30247,139,9,30395,Medium
+Assam,Dibrugarh,34359,208,6,34573,Medium
+Assam,Golaghat,25468,106,1,25575,Medium
+Assam,Karbi-Angelong,10640,59,2,10701,Medium
+Assam,Kokrajhar,18573,78,6,18657,Medium
+Assam,Nagaon,41061,239,12,41312,Medium
+Bihar,Lakhisarai,11046,63,0,11109,Medium
+Bihar,Madhubani,51926,220,4,52150,High
+Bihar,Munger,19113,59,1,19173,Medium
+Bihar,Nawada,25425,138,1,25564,Medium
+Bihar,Pashchim  Champaran,49494,226,3,49723,Medium
+Bihar,Patna,172549,1826,112,174487,High
+Bihar,Sheohar,7829,23,1,7853,Low
+Bihar,Sitamarhi,42226,199,7,42432,Medium
+Bihar,Supaul,35717,172,6,35895,Medium
+Chhattisgarh,Bemetara,12775,54,1,12830,Medium
+Chhattisgarh,Bilaspur,52362,575,31,52968,High
+Chhattisgarh,Gaurella Pendra Marwahi,4084,15,0,4099,Low
+Chhattisgarh,Kabirdham,13447,72,1,13520,Medium
+Chhattisgarh,Narayanpur,2112,10,0,2122,Low
+Chhattisgarh,Sakti,6412,16,0,6428,Low
+Chhattisgarh,Surajpur,10609,63,0,10672,Medium
+Gujarat,Ahmadabad,415912,6453,543,422908,High
+Gujarat,Banas Kantha,58151,702,29,58882,High
+Gujarat,Kachchh,87493,1745,110,89348,High
+Gujarat,Morbi,41336,693,20,42049,Medium
+Gujarat,Navsari,31551,230,10,31791,Medium
+Haryana,Ambala,49454,463,24,49941,Medium
+Haryana,Gurugram,145502,3052,331,148885,High
+Haryana,Kaithal,45141,277,8,45426,Medium
+Haryana,Karnal,78072,712,33,78817,High
+Haryana,Kurukshetra,52727,324,12,53063,High
+Haryana,Nuh,30163,211,2,30376,Medium
+Haryana,Sirsa,46717,356,20,47093,Medium
+Jharkhand,Chatra,18076,60,0,18136,Medium
+Jharkhand,Pakur,9216,54,2,9272,Low
+Jharkhand,Seraikela-Kharsawan,20645,148,8,20801,Medium
+Jharkhand,West Singhbhum,19960,89,1,20050,Medium
+Karnataka,Ballari,49574,624,31,50229,High
+Karnataka,Belagavi,123016,751,34,123801,High
+Karnataka,Davangere,52414,415,18,52847,High
+Karnataka,Gadag,27343,166,2,27511,Medium
+Karnataka,Hassan,51688,498,11,52197,High
+Karnataka,Haveri,43188,330,10,43528,Medium
+Karnataka,Kalaburagi,54679,437,22,55138,High
+Karnataka,Tumakuru,73998,521,10,74529,High
+Kerala,Kozhikode,77975,842,45,78862,High
+Kerala,Malappuram,73676,794,29,74499,High
+Kerala,Pathanamthipta,27916,250,10,28176,Medium
+Madhya Pradesh,Balaghat,34607,125,3,34735,Medium
+Madhya Pradesh,Chhindwara,53398,304,13,53715,High
+Madhya Pradesh,Guna,38201,203,9,38413,Medium
+Madhya Pradesh,Narsinghpur,23775,167,3,23945,Medium
+Madhya Pradesh,Pandhurna,2595,2,0,2597,Low
+Madhya Pradesh,Sagar,50627,319,16,50962,High
+Madhya Pradesh,Sehore,40037,231,4,40272,Medium
+Madhya Pradesh,Sheopur,7214,72,1,7287,Low
+Madhya Pradesh,Umaria,8214,37,2,8253,Low
+Maharashtra,Akola,67894,351,19,68264,High
+Maharashtra,Aurangabad,218835,1205,58,220098,High
+Maharashtra,Mumbai,308385,8509,1055,317949,High
+Maharashtra,Mumbai Suburban,406821,5885,649,413355,High
+Maharashtra,Pune,863224,6865,458,870547,High
+Manipur,Imphal West,18554,157,9,18720,Medium
+Manipur,Kamjong,295,0,0,295,Low
+Manipur,Ukhrul,1772,4,0,1776,Low
+Meghalaya,East Garo Hills,1611,6,1,1618,Low
+Meghalaya,East Jaintia Hills,2581,31,2,2614,Low
+Meghalaya,West Garo Hills,7817,39,1,7857,Low
+Mizoram,Serchhip,1395,5,1,1401,Low
+Nagaland,Dimapur,10391,89,9,10489,Medium
+Nagaland,Kiphrie,1001,0,0,1001,Low
+Nagaland,Kohima,5987,24,2,6013,Low
+Nagaland,Noklak,340,0,0,340,Low
+Nagaland,Shamator,209,0,0,209,Low
+Nagaland,Tseminyu,384,0,0,384,Low
+Odisha,Deogarh,6899,18,1,6918,Low
+Odisha,Ganjam,82535,498,12,83045,High
+Odisha,Kalahandi,27887,165,5,28057,Medium
+Odisha,Kendrapara,35792,129,9,35930,Medium
+Odisha,Khordha,121575,1483,123,123181,High
+Odisha,Sambalpur,28312,289,8,28609,Medium
+Odisha,Sundargarh,49492,632,54,50178,High
+Punjab,Ludhiana,187718,2463,123,190304,High
+Rajasthan,Alwar,109760,849,33,110642,High
+Rajasthan,Bharatpur,41066,298,6,41370,Medium
+Rajasthan,Chittorgarh,54814,369,7,55190,High
+Rajasthan,Dausa,39139,182,7,39328,Medium
+Rajasthan,Dholpur,16340,107,3,16450,Medium
+Rajasthan,Hanumangarh,61155,271,7,61433,High
+Rajasthan,Kekri,1258,4,0,1262,Low
+Rajasthan,Khairthal-Tijara,7511,10,0,7521,Low
+Rajasthan,Tonk,37497,262,7,37766,Medium
+Rajasthan,Udaipur,96540,730,38,97308,High
+Tamil Nadu,Cuddalore,91415,358,18,91791,High
+Tamil Nadu,Erode,86819,787,31,87637,High
+Tamil Nadu,Perambalur,17519,113,3,17635,Medium
+Tamil Nadu,Salem,129963,1050,52,131065,High
+Tamil Nadu,Sivaganga,45018,180,7,45205,Medium
+Tamil Nadu,Thanjavur,89910,477,17,90404,High
+Tamil Nadu,Theni,50235,272,7,50514,High
+Tamil Nadu,Thiruvarur,43456,154,1,43611,Medium
+Tamil Nadu,Tiruchirappalli,107583,679,27,108289,High
+Tamil Nadu,Tiruppur,100920,938,27,101885,High
+Tamil Nadu,Vellore,76920,444,21,77385,High
+Tamil Nadu,Villupuram,75109,326,12,75447,High
+Telangana,Bhadradri Kothagudem,32369,146,1,32516,Medium
+Telangana,Jogulamba Gadwal,14007,58,0,14065,Medium
+Telangana,Nizamabad,62776,266,7,63049,High
+Telangana,Sangareddy,52109,269,6,52384,High
+Telangana,Warangal,39902,125,5,40032,Medium
+Tripura,Sepahijala,7954,48,0,8002,Low
+Tripura,South Tripura,8197,35,1,8233,Low
+Uttar Pradesh,Baghpat,30444,105,2,30551,Medium
+Uttar Pradesh,Ballia,38426,194,9,38629,Medium
+Uttar Pradesh,Etah,23884,208,8,24100,Medium
+Uttar Pradesh,Gorakhapur,89424,897,41,90362,High
+Uttar Pradesh,Jaunpur,68728,293,3,69024,High
+Uttar Pradesh,Kanpur Dehat,22563,120,1,22684,Medium
+Uttar Pradesh,Kasganj,18822,130,1,18953,Medium
+Uttar Pradesh,Kushinagar,43701,260,9,43970,Medium
+Uttar Pradesh,Muzaffarnagar,66187,544,33,66764,High
+Uttar Pradesh,Prayagraj,108580,785,44,109409,High
+Uttar Pradesh,Sant Kabeer Nagar,22386,109,6,22501,Medium
+Uttar Pradesh,Shahjahanpur,38682,309,10,39001,Medium
+West Bengal,Alipurduar,26324,144,2,26470,Medium
+West Bengal,Bankura,40528,232,8,40768,Medium
+West Bengal,Hooghly,90594,658,16,91268,High
+West Bengal,Jalpaiguri,49332,343,13,49688,Medium
+West Bengal,Kalimpong,6305,15,0,6320,Low
+West Bengal,Paschim Bardhaman,62433,719,38,63190,High
+West Bengal,West Medinipur,88374,640,17,89031,High
+Andaman And Nicobar Islands,North And Middle Andaman,2277,2,0,2279,Low
+Delhi,West,111169,1998,149,113316,High
+Jammu And Kashmir,Anantnag,42700,174,22,42896,Medium
+Jammu And Kashmir,Bandipora,10793,16,4,10813,Medium
+Jammu And Kashmir,Ganderbal,14645,35,1,14681,Medium
+Jammu And Kashmir,Jammu,72899,794,40,73733,High
+Jammu And Kashmir,Kishtwar,7937,19,0,7956,Low
+Jammu And Kashmir,Poonch,10322,28,0,10350,Medium
+Jammu And Kashmir,Rajouri,14127,53,0,14180,Medium
+Jammu And Kashmir,Shopian,12602,62,1,12665,Medium
+Puducherry,Pondicherry,42119,334,21,42474,Medium
+The Dadra And Nagar Haveli And Daman And Diu,Dadra And Nagar Haveli,14673,155,7,14835,Medium
+The Dadra And Nagar Haveli And Daman And Diu,Diu,938,17,0,955,Low
+Andhra Pradesh,Eluru,49596,179,6,49781,Medium
+Andhra Pradesh,Kakinada,54094,179,6,54279,High
+Andhra Pradesh,Nandyal,49218,160,4,49382,Medium
+Andhra Pradesh,Palnadu,48528,134,3,48665,Medium
+Andhra Pradesh,Parvathipuram Manyam,10882,32,0,10914,Medium
+Andhra Pradesh,Prakasam,68085,514,12,68611,High
+Andhra Pradesh,Visakhapatnam,99678,1328,99,101105,High
+Arunachal Pradesh,Anjaw,191,2,0,193,Low
+Arunachal Pradesh,Bichom,23,0,0,23,Low
+Arunachal Pradesh,East Kameng,631,5,0,636,Low
+Arunachal Pradesh,Tawang,634,10,0,644,Low
+Arunachal Pradesh,Upper Subansiri,602,4,0,606,Low
+Assam,Bajali,3767,12,0,3779,Low
+Assam,Darrang,27425,149,2,27576,Medium
+Assam,Goalpara,21115,114,2,21231,Medium
+Assam,Hailakandi,15145,41,2,15188,Medium
+Assam,Jorhat,23392,198,7,23597,Medium
+Assam,Tamulpur,3263,7,0,3270,Low
+Bihar,Bhagalpur,54119,325,14,54458,High
+Bihar,Bhojpur,30315,216,7,30538,Medium
+Bihar,Darbhanga,52619,302,9,52930,High
+Bihar,Gaya,62828,373,12,63213,High
+Bihar,Jehanabad,13022,67,0,13089,Medium
+Bihar,Kishanganj,21540,127,6,21673,Medium
+Bihar,Purbi  Champaran,80908,491,69,81468,High
+Bihar,Samastipur,64730,367,7,65104,High
+Chhattisgarh,Balod,14436,66,1,14503,Medium
+Chhattisgarh,Balod Bazar,19872,107,2,19981,Medium
+Chhattisgarh,Jashpur,11629,65,2,11696,Medium
+Chhattisgarh,Khairgarh Chhuikhadan Gandai,4148,5,0,4153,Low
+Chhattisgarh,Korba,28004,293,28,28325,Medium
+Chhattisgarh,Korea,8044,47,0,8091,Low
+Chhattisgarh,Mungeli,10345,27,0,10372,Medium
+Gujarat,Bharuch,54536,610,26,55172,High
+Gujarat,Devbhoomi Dwarka,14611,109,2,14722,Medium
+Gujarat,Gandhinagar,52573,488,23,53084,High
+Gujarat,Kheda,42716,205,3,42924,Medium
+Haryana,Bhiwani,37267,314,7,37588,Medium
+Haryana,Faridabad,105264,1474,93,106831,High
+Haryana,Fatehabad,34144,273,8,34425,Medium
+Haryana,Hisar,67025,690,41,67756,High
+Haryana,Yamunanagar,52922,419,12,53353,High
+Himachal Pradesh,Hamirpur,13110,80,2,13192,Medium
+Himachal Pradesh,Kullu,18874,85,2,18961,Medium
+Himachal Pradesh,Mandi,26845,151,7,27003,Medium
+Jharkhand,Deoghar,28330,170,9,28509,Medium
+Jharkhand,Dumka,15715,90,2,15807,Medium
+Jharkhand,Garhwa,15718,78,1,15797,Medium
+Jharkhand,Hazaribag,43112,230,7,43349,Medium
+Jharkhand,Koderma,18190,87,4,18281,Medium
+Jharkhand,Latehar,9296,43,2,9341,Low
+Karnataka,Chitradurga,39913,253,12,40178,Medium
+Karnataka,Mandya,47009,293,2,47304,Medium
+Karnataka,Ramanagara,32099,168,5,32272,Medium
+Karnataka,Uttar Kannad,42916,226,1,43143,Medium
+Kerala,Kasaragod,29088,201,5,29294,Medium
+Kerala,Kottayam,45691,604,23,46318,Medium
+Kerala,Thiruvananthapuram,100106,896,36,101038,High
+Madhya Pradesh,Agar Malwa,21793,98,4,21895,Medium
+Madhya Pradesh,Ashoknagar,17998,82,2,18082,Medium
+Madhya Pradesh,Betul,34850,164,4,35018,Medium
+Madhya Pradesh,Chhatarpur,29092,209,3,29304,Medium
+Madhya Pradesh,Dhar,58661,371,17,59049,High
+Madhya Pradesh,Dindori,8654,27,0,8681,Low
+Madhya Pradesh,Katni,25209,233,10,25452,Medium
+Madhya Pradesh,Mandsaur,52531,251,3,52785,High
+Madhya Pradesh,Neemuch,29113,177,4,29294,Medium
+Madhya Pradesh,Satna,37348,286,15,37649,Medium
+Madhya Pradesh,Seoni,26183,185,4,26372,Medium
+Maharashtra,Ahmednagar,216271,1297,49,217617,High
+Maharashtra,Gadchiroli,21731,101,3,21835,Medium
+Maharashtra,Jalgaon,140405,786,58,141249,High
+Maharashtra,Nagpur,253869,2462,170,256501,High
+Maharashtra,Parbhani,57880,241,7,58128,High
+Maharashtra,Wardha,50032,214,8,50254,High
+Maharashtra,Washim,35035,203,10,35248,Medium
+Maharashtra,Yavatmal,71643,383,14,72040,High
+Manipur,Jiribam,441,0,0,441,Low
+Manipur,Kangpokpi,1932,0,0,1932,Low
+Manipur,Thoubal,7759,28,1,7788,Low
+Meghalaya,East Khasi Hills,14355,179,12,14546,Medium
+Meghalaya,South Garo Hills,1668,8,0,1676,Low
+Mizoram,Aizawl,16296,133,4,16433,Medium
+Mizoram,Lunglei,2681,10,1,2692,Low
+Nagaland,Meluri,49,0,0,49,Low
+Nagaland,Mokokchung,2110,5,0,2115,Low
+Nagaland,Phek,1310,1,0,1311,Low
+Nagaland,Wokha,1873,1,0,1874,Low
+Nagaland,Zunheboto,1258,2,0,1260,Low
+Odisha,Bargarh,30853,178,6,31037,Medium
+Odisha,Boudh,7906,35,0,7941,Low
+Odisha,Cuttack,86108,823,44,86975,High
+Odisha,Dhenkanal,29433,138,2,29573,Medium
+Odisha,Jajapur,44401,386,11,44798,Medium
+Odisha,Kandhamal,12906,42,2,12950,Medium
+Punjab,Bathinda,56012,493,24,56529,High
+Punjab,Firozepur,36035,163,2,36200,Medium
+Punjab,Hoshiarpur,55409,269,4,55682,High
+Punjab,Pathankot,21679,166,5,21850,Medium
+Rajasthan,Anoopgarh,3101,7,0,3108,Low
+Rajasthan,Banswara,31786,150,8,31944,Medium
+Rajasthan,Barmer,50874,455,30,51359,High
+Rajasthan,Bundi,26954,195,7,27156,Medium
+Rajasthan,Dungarpur,26426,86,1,26513,Medium
+Rajasthan,Ganganagar,83995,595,31,84621,High
+Rajasthan,Gangapurcity,1771,7,0,1778,Low
+Rajasthan,Jaipur,394303,4072,305,398680,High
+Rajasthan,Jaipur Gramin,14405,34,0,14439,Medium
+Rajasthan,Jhunjhunu,65302,279,9,65590,High
+Rajasthan,Karauli,20040,91,1,20132,Medium
+Rajasthan,Kotputli-Behror,11201,19,2,11222,Medium
+Rajasthan,Neem Ka Thana,2501,4,0,2505,Low
+Rajasthan,Sanchor,1555,7,0,1562,Low
+Rajasthan,Sawai Madhopur,27681,183,1,27865,Medium
+Rajasthan,Sikar,92556,430,11,92997,High
+Sikkim,Gyalshing,1832,6,0,1838,Low
+Sikkim,Mangan,901,5,0,906,Low
+Sikkim,Namchi,3912,23,2,3937,Low
+Sikkim,Soreng,1170,1,0,1171,Low
+Tamil Nadu,Dharmapuri,65420,231,6,65657,High
+Tamil Nadu,Dindigul,83813,476,11,84300,High
+Tamil Nadu,Kanchipuram,100960,840,64,101864,High
+Tamil Nadu,Karur,34504,222,8,34734,Medium
+Tamil Nadu,Madurai,132880,1003,50,133933,High
+Tamil Nadu,Nagapattinam,29968,107,0,30075,Medium
+Tamil Nadu,Namakkal,68009,674,37,68720,High
+Tamil Nadu,Thiruvallur,131682,904,43,132629,High
+Tamil Nadu,Tirunelveli,71603,399,10,72012,High
+Tamil Nadu,Tirupathur,36906,80,1,36987,Medium
+Tamil Nadu,Tiruvannamalai,69416,247,16,69679,High
+Tamil Nadu,Virudhunagar,62926,361,15,63302,High
+Telangana,Jangoan,16302,57,0,16359,Medium
+Telangana,Medak,26066,128,5,26199,Medium
+Telangana,Medchal Malkajgiri,131949,1373,70,133392,High
+Telangana,Narayanpet,10448,25,0,10473,Medium
+Telangana,Rajanna Sircilla,21326,39,1,21366,Medium
+Telangana,Suryapet,41333,180,1,41514,Medium
+Tripura,Dhalai,5799,16,1,5816,Low
+Tripura,West Tripura,24582,293,16,24891,Medium
+Uttar Pradesh,Agra,122272,1141,94,123507,High
+Uttar Pradesh,Aligarh,72371,607,31,73009,High
+Uttar Pradesh,Amroha,27243,226,14,27483,Medium
+Uttar Pradesh,Barabanki,40749,303,10,41062,Medium
+Uttar Pradesh,Chitrakoot,11449,84,9,11542,Medium
+Uttar Pradesh,Hamirpur,15681,112,7,15800,Medium
+Uttar Pradesh,Hardoi,46790,230,7,47027,Medium
+Uttar Pradesh,Jhansi,49381,477,15,49873,Medium
+Uttar Pradesh,Kannauj,20868,132,3,21003,Medium
+Uttar Pradesh,Kanpur Nagar,125555,1635,103,127293,High
+Uttar Pradesh,Lakhimpur Kheri,42069,267,8,42344,Medium
+Uttar Pradesh,Lalitpur,17558,118,8,17684,Medium
+Uttar Pradesh,Maharajganj,36140,179,4,36323,Medium
+Uttar Pradesh,Mathura,75294,475,20,75789,High
+Uttar Pradesh,Mirzapur,34492,196,9,34697,Medium
+Uttar Pradesh,Pratapgarh,41301,183,6,41490,Medium
+Uttar Pradesh,Shamli,28750,115,1,28866,Medium
+Uttar Pradesh,Sonbhadra,27523,220,11,27754,Medium
+West Bengal,East Medinipur,96973,807,23,97803,High
+West Bengal,Howrah,80279,935,30,81244,High
+West Bengal,Kolkota,140331,5480,537,146348,High
+Andaman And Nicobar Islands,South Andamans,12626,122,4,12752,Medium
+Delhi,North West,138818,3035,286,142139,High
+Delhi,South East,34676,576,51,35303,Medium
+Jammu And Kashmir,Ramban,10206,22,0,10228,Medium
+Puducherry,Yanam,575,13,3,591,Low
+The Dadra And Nagar Haveli And Daman And Diu,Daman,6249,85,7,6341,Low
